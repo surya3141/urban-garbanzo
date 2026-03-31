@@ -1,0 +1,27 @@
+# Core ML & NLP
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+joblib==1.4.2
+
+# NLP Preprocessing
+nltk==3.8.1
+regex==2024.4.16
+
+# API
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+
+# Streamlit UI
+streamlit==1.34.0
+
+# Utilities
+python-multipart==0.0.9
+requests==2.32.2
+tqdm==4.66.4
+
+# Optional: BERT-based fine-tuning
+torch==2.3.0
+transformers==4.40.2

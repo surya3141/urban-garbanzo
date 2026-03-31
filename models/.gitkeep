@@ -1,0 +1,6 @@
+# Trained model artefacts are stored here (gitignored).
+# After training, you will see:
+#   tfidf.joblib
+#   classifier_lr.joblib  OR  classifier_rf.joblib
+#   metadata.joblib
+#   bert_model/           (only if BERT training was run)

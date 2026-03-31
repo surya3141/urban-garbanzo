@@ -1,0 +1,8 @@
+*.joblib
+bert_model/
+__pycache__/
+*.pyc
+.env
+data/fake.csv
+data/true.csv
+data/news.csv
